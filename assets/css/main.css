@@ -1256,10 +1256,10 @@ input[type="radio"] + label:before {
 
 .project-container > a {
   font-size: 1.5em;
-  text-align: center;
 }
 
 .project-container > p {
+  font-size: 1.2em;
   margin-top: 1.5em;
 }
 
