@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "http://codebywil.com/*"
+  to = "https://willwebdesigns.com/:splat"
+  status = 301
+  force = true
